@@ -1,0 +1,7 @@
+haystack-ai
+docling
+pinecone
+openai
+python-dotenv
+maxapi
+requests

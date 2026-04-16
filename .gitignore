@@ -1,0 +1,13 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+.claude/
+*.log
+# Docling model cache
+.docling/
+models/
